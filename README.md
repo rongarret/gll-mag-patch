@@ -1,4 +1,3 @@
-
 GLL - A patch for the Galileo magnetometer
 
 See https://news.ycombinator.com/item?id=12037548
